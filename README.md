@@ -1,1 +1,1 @@
-# Foodspot
+# FoodSpot
